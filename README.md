@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💬 PulseChat
 
 A real-time chat application built with React Native (Expo / Web) and Node.js with Socket.IO and MongoDB.
@@ -29,3 +30,6 @@ A real-time chat application built with React Native (Expo / Web) and Node.js wi
 ```bash
 cd backend
 npm install
+=======
+# user-chat-application
+>>>>>>> b5ad03ec889370e619b2875dc64bf2d292f5ec12
